@@ -1,2 +1,2 @@
 # Game
-https://www.figma.com/file/n63uUy79V1wLGW2lFy0zFg/Games-Dashboard-UI-Kit?type=design&node-id=0%3A1&mode=design&t=560yGSV9HwSKsWcE-1
+https://www.figma.com/file/D2Q5UrXNrWGSva6KLfOd66/gamesmod-(1)?node-id=15%3A16&mode=dev
